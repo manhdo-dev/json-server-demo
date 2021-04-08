@@ -1,0 +1,62 @@
+
+
+@baseUrl = http://localhost:3000/api
+@resourceName = products
+
+### Products
+
+# @name getAllProduct
+GET {{baseUrl}}/{{resourceName}}
+
+###
+
+# @name filterProducts
+GET {{baseUrl}}/{{resourceName}}?price_gte=600
+###
+
+# @name titleLike
+GET {{baseUrl}}/{{resourceName}}?name_like=awesome
+###
+
+# @name pagination
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=20
+###
+
+# @name sort
+GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=desc
+###
+
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "categoryId": "d8428806-a6e7-4606-be40-55bf8b2b5910",
+    "name": "Generic Wooden Shirt",
+    "color": "fuchsia",
+    "price": 417,
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "thumbnailUrl": "http://placeimg.com/400/400"
+  }
+
+###
+
+# @name updateProduct
+
+PATCH  {{baseUrl}}/{{resourceName}}/ielbqiU
+Content-Type: application/json
+
+{
+    "name": "Generic Wooden Shirt",
+    "color": "red",
+    "price": 4534
+}
+
+###
+
+# @name deleteCategory
+
+DELETE {{baseUrl}}/{{resourceName}}/QVM-a4G
+Content-Type: application/json
+
+
+

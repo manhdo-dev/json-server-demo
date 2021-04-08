@@ -1,0 +1,270 @@
+{
+  "categories": [
+    {
+      "id": "d8428806-a6e7-4606-be40-55bf8b2b5910",
+      "name": "Electronics",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042
+    },
+    {
+      "id": "ee648ed9-2e39-4c0a-9204-3c441a7b8989",
+      "name": "Automotive",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042
+    },
+    {
+      "id": "5d518a6a-c0f7-44e0-8833-66b49f4b6072",
+      "name": "Tools",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042
+    },
+    {
+      "id": "1e7edfa7-85f8-4258-beac-61497a63fc01",
+      "name": "Industrial",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "d8428806-a6e7-4606-be40-55bf8b2b5910",
+      "id": "502d54f8-e415-4563-bb38-d746b263586b",
+      "name": "Generic Wooden Shirt",
+      "color": "fuchsia",
+      "price": 417,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d8428806-a6e7-4606-be40-55bf8b2b5910",
+      "id": "270423f2-871e-4127-af8e-fc5726d55d56",
+      "name": "Generic Steel Computer",
+      "color": "cyan",
+      "price": 665,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d8428806-a6e7-4606-be40-55bf8b2b5910",
+      "id": "af994f04-4865-4685-a52d-3e4ed6b34684",
+      "name": "Rustic Plastic Tuna",
+      "color": "yellow",
+      "price": 79,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d8428806-a6e7-4606-be40-55bf8b2b5910",
+      "id": "ab06aa2b-8e07-4951-bbc5-6a7e7be8023e",
+      "name": "Handcrafted Metal Bike",
+      "color": "violet",
+      "price": 251,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d8428806-a6e7-4606-be40-55bf8b2b5910",
+      "id": "2e7d7bce-f86a-4052-a59b-c3ed12389206",
+      "name": "Handcrafted Soft Chicken",
+      "color": "mint green",
+      "price": 487,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ee648ed9-2e39-4c0a-9204-3c441a7b8989",
+      "id": "d941f970-1ff6-458c-a770-400348fd5ba8",
+      "name": "Rustic Plastic Mouse",
+      "color": "turquoise",
+      "price": 456,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ee648ed9-2e39-4c0a-9204-3c441a7b8989",
+      "id": "b4881b15-34aa-462c-a812-8c70a2bd5b24",
+      "name": "Licensed Fresh Soap",
+      "color": "yellow",
+      "price": 358,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ee648ed9-2e39-4c0a-9204-3c441a7b8989",
+      "id": "d1ea9fb8-3518-43f0-b22a-e36151580095",
+      "name": "Rustic Metal Computer",
+      "color": "yellow",
+      "price": 535,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ee648ed9-2e39-4c0a-9204-3c441a7b8989",
+      "id": "477cacf1-e99d-4976-a08d-e02e8fd401d7",
+      "name": "Rustic Frozen Towels",
+      "color": "red",
+      "price": 493,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ee648ed9-2e39-4c0a-9204-3c441a7b8989",
+      "id": "5e7dc55c-b98f-4fa8-8197-718f837d8c22",
+      "name": "Fantastic Rubber Shirt",
+      "color": "white",
+      "price": 660,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1617786511042,
+      "updatedAt": 1617786511042,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5d518a6a-c0f7-44e0-8833-66b49f4b6072",
+      "id": "a631bbf3-dc98-42e7-8555-4c4c875b4f90",
+      "name": "Handmade Metal Chips",
+      "color": "turquoise",
+      "price": 584,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1617786511043,
+      "updatedAt": 1617786511043,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5d518a6a-c0f7-44e0-8833-66b49f4b6072",
+      "id": "a3796aa0-c53c-4953-b31c-6b371fe78f7e",
+      "name": "Ergonomic Plastic Shoes",
+      "color": "turquoise",
+      "price": 805,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1617786511043,
+      "updatedAt": 1617786511043,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5d518a6a-c0f7-44e0-8833-66b49f4b6072",
+      "id": "ac792487-0502-4d9c-8762-38b3c44dd2ae",
+      "name": "Licensed Plastic Table",
+      "color": "teal",
+      "price": 503,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1617786511043,
+      "updatedAt": 1617786511043,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5d518a6a-c0f7-44e0-8833-66b49f4b6072",
+      "id": "6b84a418-56f3-4dba-9852-2e76dd38328b",
+      "name": "Gorgeous Metal Sausages",
+      "color": "white",
+      "price": 164,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1617786511043,
+      "updatedAt": 1617786511043,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "5d518a6a-c0f7-44e0-8833-66b49f4b6072",
+      "id": "883d56ce-4d48-4300-96a0-93da95ede88a",
+      "name": "Intelligent Steel Tuna",
+      "color": "teal",
+      "price": 159,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1617786511043,
+      "updatedAt": 1617786511043,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1e7edfa7-85f8-4258-beac-61497a63fc01",
+      "id": "4e1c7dc1-e7c9-4721-8474-64766e04a1cc",
+      "name": "Fantastic Granite Towels",
+      "color": "violet",
+      "price": 460,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1617786511043,
+      "updatedAt": 1617786511043,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1e7edfa7-85f8-4258-beac-61497a63fc01",
+      "id": "c14e775d-055c-46d8-9a49-17db7a26b419",
+      "name": "Handcrafted Cotton Gloves",
+      "color": "grey",
+      "price": 191,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1617786511043,
+      "updatedAt": 1617786511043,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1e7edfa7-85f8-4258-beac-61497a63fc01",
+      "id": "97213a7c-90f2-41a1-afc1-9f5b3350a8d0",
+      "name": "Unbranded Cotton Sausages",
+      "color": "indigo",
+      "price": 198,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1617786511043,
+      "updatedAt": 1617786511043,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1e7edfa7-85f8-4258-beac-61497a63fc01",
+      "id": "c5c55b20-094d-4fd1-859c-e780f315bbdc",
+      "name": "Generic Rubber Mouse",
+      "color": "sky blue",
+      "price": 510,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1617786511043,
+      "updatedAt": 1617786511043,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1e7edfa7-85f8-4258-beac-61497a63fc01",
+      "id": "3e6e9789-91a1-4aca-b7dc-59088f626278",
+      "name": "Awesome Frozen Chair",
+      "color": "black",
+      "price": 863,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1617786511043,
+      "updatedAt": 1617786511043,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "name": "Laptop",
+      "createdAt": 1617786649810,
+      "updateAt": 1617786649810,
+      "id": "MrgdWul"
+    },
+    {
+      "categoryId": "d8428806-a6e7-4606-be40-55bf8b2b5910",
+      "name": "Generic Wooden Shirt",
+      "color": "red",
+      "price": 4534,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnailUrl": "http://placeimg.com/400/400",
+      "createdAt": 1617788259767,
+      "updateAt": 1617788378498,
+      "id": "ielbqiU"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}
