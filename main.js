@@ -42,7 +42,7 @@ router.render = (req, res) => {
                 totalRows: Number.parseInt(totalCountHeader)
             }
         }
-        res.jsonp(result);
+        return res.jsonp(result);
     }
 
     //Otherwise, keep default behavior
